@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\bin\Debug\netcoreapp3.1\PersistentBuggerKata.exe
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\bin\Debug\netcoreapp3.1\PersistentBuggerKata.deps.json
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\bin\Debug\netcoreapp3.1\PersistentBuggerKata.runtimeconfig.json
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\bin\Debug\netcoreapp3.1\PersistentBuggerKata.runtimeconfig.dev.json
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\bin\Debug\netcoreapp3.1\PersistentBuggerKata.dll
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\bin\Debug\netcoreapp3.1\PersistentBuggerKata.pdb
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\obj\Debug\netcoreapp3.1\PersistentBuggerKata.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\obj\Debug\netcoreapp3.1\PersistentBuggerKata.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\obj\Debug\netcoreapp3.1\PersistentBuggerKata.AssemblyInfo.cs
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\obj\Debug\netcoreapp3.1\PersistentBuggerKata.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\obj\Debug\netcoreapp3.1\PersistentBuggerKata.dll
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\obj\Debug\netcoreapp3.1\PersistentBuggerKata.pdb
+C:\Users\georg\source\repos\PersistentBuggerKata\PersistentBuggerKata\obj\Debug\netcoreapp3.1\PersistentBuggerKata.genruntimeconfig.cache
